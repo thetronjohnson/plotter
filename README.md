@@ -7,4 +7,3 @@ A day has three shifts
 08:00 to 16:00
 16:00 to 23:59
 
-# Screenshots
